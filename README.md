@@ -8,7 +8,7 @@ yarn install
 ### Compiles and hot-reloads for development
 ```
 yarn serve
-electron
+electron .
 ```
 
 ### Compiles and minifies for production
